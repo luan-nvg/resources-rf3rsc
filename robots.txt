@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luan-nvg.github.io/resources-rf3rsc/sitemap.xml
